@@ -1,0 +1,7 @@
+.navbar {
+  display: flex;
+  background-color: rebeccapurple;
+  padding: 8px;
+  color: white;
+  font-weight: bold;
+}
