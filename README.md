@@ -1,2 +1,2 @@
 # curso-udemy-react
-Link do projet [aqui](https://ltwbdi.csb.app/)
+Link do projeto [aqui](https://ltwbdi.csb.app/)
